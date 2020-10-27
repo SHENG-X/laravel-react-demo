@@ -10,3 +10,12 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+
+package-lock.json
+
+public
+!public/.htaccess
+!public/.favicon.ico
+!public/index.php
+!public/robots.txt
+!public/web.config
